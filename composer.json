@@ -1,5 +1,5 @@
 {
-    "name": "remotelyliving/php-dns",
+    "name": "santerref/php-dns",
     "description": "A php library for abstracting DNS querying",
     "type": "library",
     "license": "MIT",
